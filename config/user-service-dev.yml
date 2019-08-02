@@ -18,8 +18,4 @@ management:
   endpoints:
     web:
       exposure:
-<<<<<<< HEAD
         include: refresh
-=======
-        include: refresh
->>>>>>> branch 'master' of https://github.com/Inneaux/SPCloudTestConfig.git
